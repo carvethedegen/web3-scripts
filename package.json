@@ -1,0 +1,11 @@
+{
+  "name": "web3-scripts",
+  "version": "1.0.0",
+  "description": "Useful scripts that I've made during my time in web3.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "felon/carve",
+  "license": "ISC"
+}
